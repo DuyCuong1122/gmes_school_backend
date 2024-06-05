@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.15989.150">
+    <data-source name="gmes_lite@103.101.161.45" uuid="a692648c-3a1a-4782-a09d-c6aa14b17cc2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>rfmislogin</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
